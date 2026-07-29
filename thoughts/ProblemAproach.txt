@@ -1,0 +1,23 @@
+ Codefoces most problems are observation based which are
+    mostly Adhoc or greedy or math 
+  there are two topics which are most imporatnt
+    binary search and DP 
+
+1] understand the question
+2] try brute force 
+3] find observations
+4] prove the observation you make 
+5] if test case is failling you have list of observations which you 
+    have  proved and no need to prove them again no need to waste time.
+6] there might be some observations which you think is correct 
+   but you have not proved it yet or which cannot be proved 
+7] if there are some obesevations which can be proved and and 
+   you havent proved and which can be one of important observation
+   it is a good decision to prove them
+8] after making observation if question require you to optimize
+   try to look for optimazations 
+9] there can be two type of optimization which can be optimized 
+   and another one that cannot be optimized and have to brute force
+10] look for repeating values or patterns and optimize the things
+     which can be optimize and brute force the the optimization
+     which cannot be optimized.
